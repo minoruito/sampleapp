@@ -1,0 +1,34 @@
+ul li:first-child {
+  margin-right: 20px;
+}
+
+li {
+    display: inline;
+}
+
+span.guide {
+	font-size: smaller;
+}
+
+p.guide {
+    font-size: smaller;
+}
+
+table,td, th {
+    border-collapse: collapse;
+    border:1px solid #333;
+}
+
+table td {
+    font-size: smaller;
+}
+
+form input.error {
+	background-color: #FF999999;
+}
+
+form label.error {
+	margin-left: 20px;
+	color: red;
+    font-size: small;	
+}
