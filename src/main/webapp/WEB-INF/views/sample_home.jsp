@@ -5,7 +5,7 @@
 
 <html>
 <head>
-<title>Sample(Tables)</title>
+<title>Sample(Home)</title>
 
 <spring:url value="/resources/js/jquery-3.3.1.js" var="jqueryJs" />
 <script src="${jqueryJs}"></script>
